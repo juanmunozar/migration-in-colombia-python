@@ -1,4 +1,4 @@
-Migration and weather, is there a relation?
+# Migration and weather, is there a relation?
 
 I wanted to tackle a question that sparked my curiosity, is there a relation between the weather of certain departments in Colombia and the amount of immigrants there?
 
@@ -12,4 +12,5 @@ I started by doing some pre-processing of the data, cleaning it and renaming the
 
 This code might be updated later.
 
-This code was made by Juan Camilo Muñoz - https://www.linkedin.com/in/jucmunozar/
+This code was made by Juan Camilo Muñoz
+https://www.linkedin.com/in/jucmunozar/
